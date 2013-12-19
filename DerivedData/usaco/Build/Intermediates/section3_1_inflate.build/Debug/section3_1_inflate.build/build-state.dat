@@ -1,0 +1,61 @@
+Tsection3_1_inflate
+v5
+r1
+cCheck dependencies
+cCompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o /Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BDECD100000000000000AA
+t1371401425
+s170
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o
+t1373564977
+s72064
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/section3_1_inflate.LinkFileList
+c0000000051DEEC6F000000000000009E
+t1373564015
+s158
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate
+t1373564977
+s17208
+
+N/Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp
+c0000000051DEF04900000000000003A1
+t1373565001
+s929
+i<iostream>
+
+CBuild AST from /Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesccb27fcc278fb741^ace07fcc278fb741^---0#1#0#--18"Check dependencies36"49294BAC-18A3-4D88-AB9D-9A6CD5BD98D8-
+
+CCompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o /Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s395257804.501268
+e395257804.846769
+r1
+xCompileC
+x/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o
+x/Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cppd26e80cc278fb741^87c5d8cc278fb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp0000000000000000^3383"CompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o section3_1_inflate/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Harry/Documents/xcode/usaco/section3_1_inflate    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/section3_1_inflate-generated-files.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/section3_1_inflate-own-target-headers.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/section3_1_inflate-all-target-headers.hmap -iquote /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/section3_1_inflate-project-headers.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/DerivedSources/x86_64 -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/DerivedSources -F/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -MMD -MT dependencies -MF /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.dia -c /Users/Harry/Documents/xcode/usaco/section3_1_inflate/section3_1_inflate/main.cpp -o /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/main.o36"922EFBF3-BD26-4396-8589-C29EE199035D-
+
+CLd /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate normal x86_64
+s395257804.853769
+e395257804.872697
+r1
+xLd
+x/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Link /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate55a4dacc278fb741^6669dfcc278fb741^---0#0#0#--915"Ld /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate normal x86_64    cd /Users/Harry/Documents/xcode/usaco/section3_1_inflate    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -F/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -filelist /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_inflate.build/Debug/section3_1_inflate.build/Objects-normal/x86_64/section3_1_inflate.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_inflate36"8587CE66-B674-4897-9BE1-086C830D190E-
+

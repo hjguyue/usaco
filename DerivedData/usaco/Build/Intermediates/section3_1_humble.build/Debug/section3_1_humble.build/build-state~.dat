@@ -1,0 +1,61 @@
+Tsection3_1_humble
+v5
+r1
+cCheck dependencies
+cCompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o /Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BDECD100000000000000AA
+t1371401425
+s170
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/section3_1_humble.LinkFileList
+c0000000051DC1E40000000000000009C
+t1373380160
+s156
+
+N/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble
+t2
+s0
+
+N/Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp
+c0000000051DC1E3700000000000002E5
+t1373380151
+s741
+i<iostream>
+
+CBuild AST from /Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies68aea7c0558cb741^828fa9c0558cb741^---0#1#0#--18"Check dependencies36"B6522802-4DC7-45CF-B02F-49A953BD8B19-
+
+CCompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o /Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s395072960.666167
+e395072961.233548
+r1
+xCompileC
+x/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o
+x/Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp0da9aac0558cb741^47c93bc1558cb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp0000000000000000^3355"CompileC /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o section3_1_humble/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Harry/Documents/xcode/usaco/section3_1_humble    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/section3_1_humble-generated-files.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/section3_1_humble-own-target-headers.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/section3_1_humble-all-target-headers.hmap -iquote /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/section3_1_humble-project-headers.hmap -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/DerivedSources/x86_64 -I/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/DerivedSources -F/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -MMD -MT dependencies -MF /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.dia -c /Users/Harry/Documents/xcode/usaco/section3_1_humble/section3_1_humble/main.cpp -o /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/main.o36"E4309C57-3D75-467C-BB0F-00109A43FB6B-
+
+CLd /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble normal x86_64
+s395072961.240531
+e395072961.350344
+r1
+xLd
+x/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble44a53dc1558cb741^64b159c1558cb741^---0#0#0#--909"Ld /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble normal x86_64    cd /Users/Harry/Documents/xcode/usaco/section3_1_humble    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -F/Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug -filelist /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Intermediates/section3_1_humble.build/Debug/section3_1_humble.build/Objects-normal/x86_64/section3_1_humble.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/Harry/Documents/xcode/usaco/DerivedData/usaco/Build/Products/Debug/section3_1_humble36"5759C12A-E38B-4BCD-8B6B-64C12E3A6ABC-
+
